@@ -48,9 +48,11 @@ lexer.l
  → Lexical Analyzer 
  
 parser.y            
- → Syntax & Semantic Analyzer 
+ → Syntax & Semantic Analyzer
+ 
 symbol_table.c     
  → Symbol Table Functions 
+ 
 symbol_table.h     
  → Header File
 
