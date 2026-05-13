@@ -46,11 +46,12 @@ GCC Compiler
 
 lexer.l            
  → Lexical Analyzer 
-parser.y           
- → Syntax & Semantic Analyzer
-symbol_table.c    
- → Symbol Table Functions
-symbol_table.h    
+ 
+parser.y            
+ → Syntax & Semantic Analyzer 
+symbol_table.c     
+ → Symbol Table Functions 
+symbol_table.h     
  → Header File
 
 🛠 How to Run
