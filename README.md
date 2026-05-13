@@ -43,8 +43,9 @@ GCC Compiler
 
 
 📂 Project Files
+
 lexer.l            
- → Lexical Analyzer
+ → Lexical Analyzer 
 parser.y           
  → Syntax & Semantic Analyzer
 symbol_table.c    
